@@ -1,4 +1,4 @@
-# Embedded-Projects
+# CSE433 Embedded Projects From Gebze Technical University
 
 I have written ebob method and bisection method with logisim.
 
