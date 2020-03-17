@@ -18,3 +18,4 @@ Quartus Cyclone 3 DE0 FPGA Project
 ----------------------------------
 You can play led game with switches. To start press button 2. Reset button is button 1.
 
+https://youtu.be/cP5saeE8LF8
